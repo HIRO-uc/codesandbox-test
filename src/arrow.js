@@ -13,12 +13,11 @@ const func1 = function (str) {
 
 console.log(func1("func1です"));
 
-アロー関数
-=>が出てきたら関数宣言
- const func2 = (str) => {
-   return str;
- }
-
+// アロー関数
+// =>が出てきたら関数宣言
+const func2 = (str) => {
+  return str;
+};
 // 結果が一行で表せるような時は{}とreturnを省略できる
 // const func2 = (str) => str;
 
