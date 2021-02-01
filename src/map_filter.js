@@ -1,5 +1,5 @@
 /**
- * mapやfilterを使った処理
+ * mapやfilterを使った配列の処理
  */
 const nameArr = ["田中", "佐藤", "佐々木"];
 for (let index = 0; index < nameArr.length; index++) {
